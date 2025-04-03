@@ -13,3 +13,6 @@
 [submodule "packages/nomad-parser-qutip"]
 	path = packages/nomad-parser-qutip
 	url = https://github.com/FAIRmat-NFDI/nomad-parser-qutip.git
+[submodule "packages/nomad-plugin-qutip"]
+	path = packages/nomad-plugin-qutip
+	url = https://github.com/GiovanniCastorina/nomad-plugin-qutip.git

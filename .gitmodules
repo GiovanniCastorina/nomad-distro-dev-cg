@@ -7,3 +7,9 @@
 [submodule "packages/nomad-simulations"]
 	path = packages/nomad-simulations
 	url = https://github.com/nomad-coe/nomad-simulations.git
+[submodule "nomad-parser-qutip"]
+	path = nomad-parser-qutip
+	url = https://github.com/FAIRmat-NFDI/nomad-parser-qutip.git
+[submodule "packages/nomad-parser-qutip"]
+	path = packages/nomad-parser-qutip
+	url = https://github.com/FAIRmat-NFDI/nomad-parser-qutip.git
